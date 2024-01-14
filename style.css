@@ -1,0 +1,88 @@
+        body {
+                margin: 0;
+                padding: 0;  
+        }
+        .UtubeLogo  {
+                float: left;
+                height: 30px;
+                width: 19%;
+                margin-top: 15px;
+                margin-left: 25px;
+
+        }
+        .SearchBar  {
+                /* width: 65%; */
+                float: left; 
+                margin-top: 3px;
+                border-color: blue;
+                margin-top: 8px;
+                
+        }
+        .SearchBar input {
+                height: 35px;
+                width: 530px;
+                /* border-radius: 25px; */
+                text-align: justify;
+                border-width:1px;
+                border: 1px solid #cccccc;
+                /* border-color:  lightgray; */
+                display: flex;
+                border-top-left-radius:700px ;
+                border-bottom-left-radius: 700px;
+                padding: 0 0 0 10px;
+        }
+        .SearchBtn {
+                float: left;
+                margin-top: 8px;
+
+        }
+        .SearchBtn button {
+                border-top-right-radius: 25px;
+                border-bottom-right-radius: 25px; 
+                border: 1px solid #d3d3d3; 
+                border-width: 1px;
+                /* border-color: gray; */
+                padding:1px 20px 1px 20px;
+                width: 70px; 
+                background-color: ghostwhite;
+                height: 37px;
+        } 
+        .mic button {
+                border-radius: 30px;
+                border: none;
+                height: 40px;
+                width: 40px;
+                margin-top: 8px;
+                margin-left: 17px;
+
+        }
+        .mic {
+                width: 12%;
+                float: left;
+        }
+        .menu button {
+                float: left;
+                border: none;
+                background-color: white;
+                margin-top: 15px;
+                margin-left: 50px;
+                
+        } menu {
+                width: 10%;
+        }
+        .login {
+                width: 5%;
+                float: left;
+                margin-top: 8px;
+                margin-left: 30px;
+        }
+        .login button {
+                border: none;
+                background-color: white;
+        }
+        .NavBar button {
+                float: left;
+                border: none;
+                margin-top: 16px;
+                margin-left: 10px;
+        }
